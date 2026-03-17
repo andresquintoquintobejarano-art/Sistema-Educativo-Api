@@ -1,5 +1,3 @@
 node_modules/
-database.database
+database.db
 .env
-PORT=3000
-API_PASSWORD=Sena2024Educativo
